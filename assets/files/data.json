@@ -1,0 +1,12 @@
+{
+    "palabras":["Ejemplo", "Mesa", "aplicación", "Obelisco",
+    "Claro", "Jinete", "Camiseta", "Vivienda", "Autopsia", "Rascacielos",
+    "Privado", "Remachar", "Irrigar"],
+    "instrumentales": [
+        "url_instrumental"
+    ],
+    "urls":{
+        "apiPalabras": "https://clientes.api.greenborn.com.ar/public-random-word",
+        "otro":"ejemplo"
+    }
+}
